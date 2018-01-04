@@ -9,6 +9,6 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "browser-request": "^0.3.3"
+    "superagent": "^3.8.2"
   }
 }
